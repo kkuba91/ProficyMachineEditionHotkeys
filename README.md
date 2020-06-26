@@ -8,6 +8,10 @@ Some hotkeys for Proficy Machine Edition (GE-PLC IDE)
 
 Program rus transparently (without frame/console).
 
+## Other package used
+
+ - pynput from here: https://github.com/moses-palmer/pynput
+
 ## Important
 
 Proficy Machine Edition Laddes Edit works like spreadsheet. There are no hotkeys inbuild, but keywords making content inside every cell with logical sense.
