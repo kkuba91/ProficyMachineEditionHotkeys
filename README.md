@@ -6,7 +6,7 @@
 
 Some hotkeys for Proficy Machine Edition (GE-PLC IDE)
 
-Program rus transparently (without frame/console).
+Program runs transparently (without frame/console).
 
 ## Other package used
 
